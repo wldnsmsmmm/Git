@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+	<h2>GIT테스트</h2>
 </body>
 </html>
